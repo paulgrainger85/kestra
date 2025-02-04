@@ -24,4 +24,4 @@ tasks:
     gitDirectory: python
     branch: "{{inputs.branch}}"
     username: "{{secret('git_username')}}"
-    password: "{{secret('git_token')}}"    
+    password: "{{secret('git_token')}}"
