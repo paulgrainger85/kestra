@@ -1,7 +1,0 @@
-id: yet_another_flow
-namespace: company.dev
-
-tasks:
-  - id: hello
-    type: io.kestra.plugin.core.log.Log
-    message: Hello again

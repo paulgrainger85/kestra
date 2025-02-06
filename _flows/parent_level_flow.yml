@@ -1,5 +1,5 @@
-id: sync_this
-namespace: company.dev.users
+id: parent_level_flow
+namespace: kestra-project-2
 
 tasks:
   - id: hello

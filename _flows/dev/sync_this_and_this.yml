@@ -1,7 +1,0 @@
-id: sync_this_and_this
-namespace: company.dev
-
-tasks:
-  - id: hello
-    type: io.kestra.plugin.core.log.Log
-    message: Hello again
