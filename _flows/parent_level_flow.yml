@@ -1,5 +1,5 @@
 id: parent_level_flow
-namespace: kestra-project-2
+namespace: kestra
 
 tasks:
   - id: hello
