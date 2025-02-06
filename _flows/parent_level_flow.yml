@@ -1,0 +1,7 @@
+id: parent_level_flow
+namespace: kestra-project-2
+
+tasks:
+  - id: hello
+    type: io.kestra.plugin.core.log.Log
+    message: Hello World! 🚀
