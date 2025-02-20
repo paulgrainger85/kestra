@@ -1,0 +1,7 @@
+id: user_level_flow_2
+namespace: kestra.users
+
+tasks:
+  - id: hello_again
+    type: io.kestra.plugin.core.log.Log
+    message: Hello to you user, how are you doing today
